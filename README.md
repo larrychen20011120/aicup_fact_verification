@@ -7,6 +7,10 @@ pip install -r requirements.txt
 ```
 如果在 colab notebook 就執行下載的 block 即可
 
+## 環境
+* Google Colab
+* 如需訓練請開啟GPU（實作時為T5）
+
 ## 執行前
 * 首先確定 data 底下的 wiki-pages 資料夾下有比賽的資料 (下載:https://drive.google.com/drive/folders/1kpxgrnE60BaIkqksfvkDYFdAesItN-Sd?usp=drive_link)
 * **aicup_full_pipeline.ipynb** 是三個步驟的完整筆記本
