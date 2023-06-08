@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ## 執行前
 * 首先確定 data 底下的 wiki-pages 資料夾下有比賽的資料 (下載:https://drive.google.com/drive/folders/1kpxgrnE60BaIkqksfvkDYFdAesItN-Sd?usp=drive_link)
 * **aicup_full_pipeline.ipynb** 是三個步驟的完整筆記本
-* 名稱中有 utils 的 python 檔案主要是用來做資料格式轉換處理的
+* 名稱中有 utils 的 python 檔案主要是用來做資料格式轉換處理評價指標運算
 * analysis.ipynb 是分析模型在不同類別表現的檔案
 * tfidf.ipynb 是用 tfidf 方法時做檢索的程式
 * dict.txt.big 是結巴斷詞的字典
