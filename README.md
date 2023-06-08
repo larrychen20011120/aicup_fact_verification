@@ -13,6 +13,7 @@ pip install -r requirements.txt
 * 名稱中有 utils 的 python 檔案主要是用來做資料格式轉換處理的
 * analysis.ipynb 是分析模型在不同類別表現的檔案
 * tfidf.ipynb 是用 tfidf 方法時做檢索的程式
+* dict.txt.big 是結巴斷詞的字典
 
 ## 復現
 根據報告中設定的參數填入`aicup_full_pipeline.ipynb`的參數欄位即可復現，原筆記中的參數可能有些不同。
